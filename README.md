@@ -6,7 +6,7 @@
 
     
   <h2>
-  <a href="https://nipunsgeeth.github.io/my-portfolio-website/">🚀 Visit Demo of My Portfolio 🚀</a>
+  <a href="https://nipunsgeeth.github.io/my-portfolio-website/" target="_blank">🚀 Visit Demo of My Portfolio 🚀</a>
   </h2>
     </p>
 
@@ -54,7 +54,7 @@
   <h2>📞 Contact</h2>
     <p>You can contact me via:</p>
     <ul>
-        <li>Email: <a href="nipunsgeeth@gmail.com">nipunsgeeth@gmail.com</a></li>
-        <li>LinkedIn: <a href="https://lk.linkedin.com/in/NipunSGeeTH">NipunSGeeTH</a></li>
-        <li>GitHub: <a href="https://github.com/NipunSGeeTH">NipunSGeeTHe</a></li>
+        <li>Email: <a href="nipunsgeeth@gmail.com" target="_blank">nipunsgeeth@gmail.com</a></li>
+        <li>LinkedIn: <a href="https://lk.linkedin.com/in/NipunSGeeTH" target="_blank">NipunSGeeTH</a></li>
+        <li>GitHub: <a href="https://github.com/NipunSGeeTH" target="_blank">NipunSGeeTHe</a></li>
     </ul>
