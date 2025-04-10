@@ -859,7 +859,7 @@ Version      : 1.0
         padding: 25px 0;
         overflow-x: hidden;
         background: #333;
-        min-height: calc( 200px);
+        min-height: calc( 100px); 
     }
 
     .main-menu .navbar-collapse>ul>li:last-child {
