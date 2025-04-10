@@ -847,11 +847,11 @@ Version      : 1.0
     }
 }
 
-/* @media only screen and (max-width: 991px) {
+@media only screen and (max-width: 991px) {
     .main-menu .collapse {
         overflow: auto;
     }
-} */
+}
 
 @media only screen and (max-width: 991px) {
     .main-menu .navbar-collapse>ul {
@@ -859,7 +859,7 @@ Version      : 1.0
         padding: 25px 0;
         overflow-x: hidden;
         background: #333;
-        max-height: calc( 600px);
+        max-height: calc( 50px);
     }
 
     .main-menu .navbar-collapse>ul>li:last-child {
